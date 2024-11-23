@@ -173,3 +173,7 @@ nums = [4, 2, -3, 1, 6]
 
 # Check and print if there is any sublist with sum 0
 print("Sublist with sum 0 exists:", has_zero_sum_sublist(nums))
+
+
+
+print("task done")
