@@ -49,7 +49,7 @@ print("\nCountries using Euro as a currency")
 country_info.display_country_with_currency("€")
 
 
-# Program 2
+# Program 2 (In progress)
 import requests
 from collections import Counter
 class BreweryInfo:
